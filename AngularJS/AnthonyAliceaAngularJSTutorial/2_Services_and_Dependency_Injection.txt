@@ -1,0 +1,71 @@
+Services and dependency injection:
+==================================
+
+ * Dependency injection:
+
+ 	Giving a function an object 
+
+ 	Rather than creating a object inside a function, you pass it to the function.
+
+ 	var Person = function(firstname,lastname){
+ 		this.firstname = firstname;
+ 		this.lastname = lastname;
+ 	}
+
+ 	function logPerson(person){
+ 		console.log(person);
+ 	}
+
+ 	var john = new Person('John','Doe');
+ 	logPerson(john);
+
+Scope service:
+==============
+
+	* $scope: binds the model to the view
+
+		Object from scope service 
+		involves dependency injection.
+
+	All angular service starts with a dollar sign($)
+
+How does angular do dependency injection:
+========================================
+
+	$scope is part of the core angular module.
+
+Getting other services:
+======================
+
+	$log service is similar to console.log()
+
+	$log.log()
+	$log.warn()
+	$log.info()
+	$log.debug()
+	$log.error()
+
+
+	$filter service:
+	================
+
+Arrays and Functions:
+=====================
+
+	* Shrinking the size of files for faster downloads.
+
+Code Minification:
+==================
+
+	* Last param of the controller is always a function.
+	* 
+
+	myApp.controller('mainController',['$scope','$log',function($scope,$log){
+
+		$log.info()
+
+	}]);
+
+
+	* Order of the parameters inside the function matters.
+	* 

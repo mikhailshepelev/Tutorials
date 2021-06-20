@@ -1,0 +1,66 @@
+Problem AngularJS is trying to solve:
+====================================
+
+	 If we have 2 UI buttons it is ok to use jQuery.
+
+	 But what if we have 20?!?!
+
+	 Representation of the HTML that sits inside browser's memory.
+
+	 Way for us to Manipulate and read code.
+
+	 More code if we use jQuery.
+
+	 Just update one side and other side updated automatically.
+
+	 Update JS and HTML auto updates.
+
+	 Complexity of managing both the DOM and HTML and logic and variables and data manually.
+
+Model, View and whatever...
+==========================
+
+	Connect HTML and data
+
+    MVC:
+	====
+
+		Model : in JS let's say, a  variable
+		View : what the user sees, the HTML
+		binds the model and the view
+
+		Model and View are bound together
+		Any changes made to the view affects the model and vice versa.
+
+		Binding is done by controllers, view models and whatever.
+
+		AngularJS is MV*
+
+Custom Attributes:
+==================
+
+	* Custom attributes doesn;t affect the webpage visually.
+	* Still there in DOM.
+	* ng- represents the HTML Attributes.
+	* data-ng- for strict HTML5.
+
+Global Namespace:
+=================
+
+	Global Namespace 
+
+
+	var steveApp = {};
+	steveApp.person = "Steve";
+	steveApp.logPerson = function(){
+		console.log(steveApp.person);
+	}
+
+	steveApp.person = "Tony";
+	steveApp.logPerson();
+
+Modules, Apps and controllers:
+===============================
+
+
+	controller binds the model and the view using the $scope.
