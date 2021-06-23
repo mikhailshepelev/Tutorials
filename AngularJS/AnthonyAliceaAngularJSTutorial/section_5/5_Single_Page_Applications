@@ -1,0 +1,19 @@
+Multiple Controllers and multiple views:
+=======================================
+
+$scope is unique to the controller it is defined in.
+
+SPA's and the Hash:
+=====================
+
+window.location.hash
+
+Routing Templates and controllers:
+=================================
+
+angular-route for routing the hashes.
+
+Routing and Templates:
+======================
+
+<div ng-view></div>
