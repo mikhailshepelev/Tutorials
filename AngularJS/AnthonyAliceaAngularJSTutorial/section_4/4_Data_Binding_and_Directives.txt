@@ -1,0 +1,134 @@
+Scope and Interpolation:
+========================
+
+	Interpolation:
+	============
+
+		creating a string by combining string and placeholders.
+
+		'My name is' + name is interpolated, and results is 'My name is Tony'.
+
+How it does work inside angularjs:
+==================================
+
+	whatever that is done inside the $scope is avaialbe inside the view
+
+
+	var app = angular.module('app',[]);
+
+	app.controller('mainController',['$scope','$timeout',function($scope,$timeout){
+
+		$scope.name = 'Narayanan';
+
+		$timeout(function(){
+			$scope.name = 'TOmy';
+		},3000);
+
+	});
+
+Directives and two way data binding:
+===================================
+
+
+	an instruction to AngularJS to manipulate a piece of the DOM.
+
+	It could be add a class, hide this create this.
+
+	ng-model:
+	=========
+
+		bind a particular element to the scope of the variable
+
+		this directive says that this element to be bound to a specific variable in the scope.
+
+
+		Attach the view to the model.
+
+Watchers and digest loop:
+=========================
+
+	JS has event loop.
+
+	AngularJS adds event listener for you and its extending the event loop to auto control the binding between the model and view.
+
+	Adds an Angular Context
+
+	Need to keep track of variables and watchers.
+
+	Part of watching and checking if something has changed.. is the $digest.
+
+
+	Digest cycle Has something changed?
+
+	If something has changed.. it updates every where the value of it.
+
+	by changing that is something other changed? It checks!
+
+	If changed it updates the DOM.
+
+	Adding out $watch:
+	==================
+
+	self.$watch('handle',function(newValue,oldValue){
+
+	})
+
+	this function runs when the handle changes.
+
+	// runs async and not watched by the angular $digest
+
+	setTimeout(function(){
+    	self.handle = 'newtwitterhandle';
+    	console.log('scope Changed!');
+    },3000);
+
+
+    $scope.$apply() // apply whatever I put in here to the angularJs context
+
+    instead of using setTimeout we use $timeout to tell angular to make it in angular context.
+
+    Part of angularjs context.
+
+
+    Model,view and *
+    =================
+
+    	Watchers and digest loop connects the model and view.
+
+
+Common Directives:
+=================
+
+	ng-if removes/ allows the entire pieces of the DOM based on the JS expression.
+
+	ng-show/ng-hide - adds a display: none ! important in css.
+
+	ng-class - takes a JSON object.
+
+	Add and remove class based on data from model and view.
+
+	ng-repeat - repeat each item in an array.
+
+Common Directives: part 2
+=================
+
+	show the interpolation syntax for a second and the JS syntax take over it
+
+	to avoid it AngularJS uses ng-clock.
+
+	ng-clock hides the element in the DOM until AngularJS has worked on it.
+
+XMLHttpRequest:
+==============
+
+	XMLHttpRequest is native to the browsers.
+
+	Invented by the Microsoft.
+
+	Can make request via its code.
+
+External data and $http:
+=========================
+
+$http.get()
+$http.post()
