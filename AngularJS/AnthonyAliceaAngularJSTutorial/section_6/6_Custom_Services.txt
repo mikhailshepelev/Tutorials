@@ -1,0 +1,102 @@
+ngletons:
+===========
+
+	Singletons:
+	===========
+
+		The one and only copy of an object.
+
+
+
+		Person object 
+
+		Instantiating or creating a copy of person object
+
+		kumar
+		sumar
+		marama
+
+		But a singleton doesn't give you copies
+		it gives only one.
+
+		AngularJS services are implemented as singletons.
+
+		$log service is a singleton
+
+		$scope is an exception in angularjs
+
+		$scope in angularjs is a childscope
+
+		Passing it to a new controller will let it create a new $scope
+
+		Creating your own service will also be a singleton.
+
+Creating a service:
+===================
+
+
+	For custom service, angularjs doesn't run digest loop
+
+
+	A service holds a reference to any object.
+
+	A factory is a function which returns any object
+
+	A provider is a function which returns any function
+
+	Service is a constructor function that will be called  with new.
+
+	factory is a function that returns an object you can run some code before.
+
+	
+
+
+	app.service('myService', function() {
+
+  // service is just a constructor function
+  // that will be called with 'new'
+
+  this.sayHello = function(name) {
+     return "Hi " + name + "!";
+  };
+});
+
+	app.factory('myFactory', function() {
+
+	  // factory returns an object
+	  // you can run some code before
+
+	  return {
+	    sayHello : function(name) {
+	      return "Hi " + name + "!";
+	    }
+	  }
+	});
+
+Services vs Factories vs Providers:
+===================================
+
+app.factory = ('a',fn);
+app.service = ('b',fn);
+app.provider = ('c',fn);
+
+
+Difference:
+==========
+
+	a's stored value comes from running fn()
+
+	b's stored value comes from 'new'ing fn()
+
+	c's stored value comes from first getting an instance by 'new'ing fn and then running a $get of the instance.
+
+
+	Result:
+	=======
+
+	cache.a = fn();
+	cache.b = new fn();
+	cache.c = (new fn()).$get();
+
+
+	This is why services using 'this' and provider's use 'this'.$get()
