@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html ng-app>
+    <head>
+        <title>Angulaf JS</title>
+    </head>
+    <body ng-init="data={name:'James', isVisible:true, loggedIn:false, status: 'red'}">
+        {{ 2 * 4 }}
+        <div ng-hide="isHidden">
+        Name: <input type="text" ng-model="name" /> {{ name }} <span ng-bind="name"></span>
+        </div>
+        Hide: <input type="checkbox" ng-model="isHidden"/>
+        <br/>
+        <button ng-click="name='Michelle'">Change Name</button>
+
+        <div ng-cloak>
+            <div ng-switch on="data.loggedIn">
+                <div ng-switch-when="true" ng-class="data.status">
+                    Welcome {{ name }}
+                </div>
+                <div ng-switch-default ng-class="data.status">Login</div>
+                <br/>
+                <div ng-show="data.isVisible">
+                    Name: <input type="text" ng-model="data.name" />
+                    {{ data.name }}
+                </div>
+            </div>
+        </div>
+
+        <div ng-init="people=[{name:'John', city:'Chandler'}, {name:'Tina', city:'New York'}]">
+        <ul>
+            <li ng-repeat="person in people">{{ person.name + ' ' + person.city}}</li>
+        </ul>
+        <br/>
+        <table>
+            <tr>
+                <td>Name</td>
+                <td>City</td>
+            </tr>
+            <tr ng-repeat="person in people">
+                <td>{{person.name}}</td>
+                <td>{{person.city}}</td>
+            </tr>
+        </table>
+        </div>
+
+        <div ng-init="customers=[{joined: '2000-12-02', name:'John', city:'Chandler', orderTotal: 9.9956}, {joined: '2020-12-02', name:'Alex', city:'Johnson', orderTotal: 3.56}, {joined: '2020-10-25', name:'Tina', city:'New York', orderTotal: 2.5643}]">
+            <h2>Customers</h2>
+            Filter: <input type="text" ng-model="customerFilter.name"/>
+            <br/><br/>
+            <table>
+                <tr>
+                    <th ng-click="sortBy='name';reverse=!reverse">Name</th>
+                    <th ng-click="sortBy='city';reverse=!reverse">City</th>
+                    <th ng-click="sortBy='orderTotal';reverse=!reverse">Order Total</th>
+                    <th ng-click="sortBy='joined';reverse=!reverse">Joined</th>
+                </tr>
+                <tr ng-repeat="cust in customers | filter:customerFilter | limitTo:2 | orderBy:sortBy">
+                    <td>{{cust.name | uppercase}}</td>
+                    <td>{{cust.city | lowercase}}</td>
+                    <td>{{cust.orderTotal | currency:'y'}}</td>
+                    <td>{{cust.joined | date:'longDate'}}</td>
+                </tr>
+            </table>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.js"></script>
+    </body>
+</html>
