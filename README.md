@@ -9,4 +9,7 @@ AngularJS basics, ng directives, two-way binding and filters/pipes
 #### Section 3  
 Controllers, modules and scope  
 
+#### Section 4  
+Routing, Route parameters  
+
 

@@ -14,7 +14,7 @@
                     <th ng-click="doSort('orderTotal')">Order Total</th>
                     <th ng-click="doSort('joined')">Joined</th>
                 </tr>
-                <tr ng-repeat="cust in ctrl.customers | filter:customerFilter | orderBy:sortBy:reverse">
+                <tr ng-repeat="cust in customers | filter:customerFilter | orderBy:sortBy:reverse">
                     <td>{{cust.name}}</td>
                     <td>{{cust.city}}</td>
                     <td>{{cust.orderTotal | currency}}</td>

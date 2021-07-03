@@ -45,4 +45,4 @@
     CustomersController.$inject = ['$scope', 'foo', 'bar'];
 
     angular.module('customersApp').controller('CustomersController', [ '$scope', 'foo', 'bar', CustomersController]);
-});
+}());
