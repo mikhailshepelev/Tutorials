@@ -25,13 +25,14 @@
                 $scope.reverse = !$scope.reverse;
             }
         });
-}); */
+}); 
+}()); */
 
-// Option 3
+// Option 3 - also preferred to avoid using of global scope variables
 
 (function () {
 
-    var CustomersController = function ($scope, foo, bar) {
+    var CustomersController = function ($scope) {
         $scope.sortBy = 'name';
         $scope.reverse = 'false';
 
@@ -42,7 +43,9 @@
         }
     };
 
-    CustomersController.$inject = ['$scope', 'foo', 'bar'];
+    // this is to avoid minification issues
+    CustomersController.$inject = ['$scope'];
 
-    angular.module('customersApp').controller('CustomersController', [ '$scope', 'foo', 'bar', CustomersController]);
+    angular.module('customersApp')
+            .controller('CustomersController', CustomersController);
 }());
