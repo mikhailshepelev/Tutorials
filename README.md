@@ -12,4 +12,7 @@ Controllers, modules and scope
 #### Section 4  
 Routing, Route parameters  
 
+#### Section 5  
+Services and factories, http calls    
+
 
