@@ -26,6 +26,17 @@ Services and factories, http calls
 3. Variable name conventions  
 4. Data Types  
 5. let, const and var  
+6. Math operators  
+7. Assignment operators  
+8. Comparison operators  
+9. Operator Precedence  
+10. Strings and Template Literals  
+11. Taking Decisions: if / else Statements  
+12. Type Conversion and Coercion  
+
+
+
+
 
 
 
