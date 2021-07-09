@@ -33,7 +33,9 @@ Services and factories, http calls
 10. Strings and Template Literals  
 11. Taking Decisions: if / else Statements  
 12. Type Conversion and Coercion  
-
+13. Truthy and Falsy Values  
+14. Equality Operators: == vs. ===  
+15. Logical Operators  
 
 
 
