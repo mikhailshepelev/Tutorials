@@ -36,10 +36,16 @@ Services and factories, http calls
 13. Truthy and Falsy Values  
 14. Equality Operators: == vs. ===  
 15. Logical Operators  
+16. The switch Statement  
+17. Statements and Expressions  
+18. The Conditional (Ternary) Operator  
 
-
-
-
+##### Section 1 - Javascript fundamentals: part 1  
+1. Activating Strict Mode  
+2. Functions  
+3. Function Declarations vs. Expressions  
+4. Arrow functions  
+5. Functions Calling Other Functions  
 
 
 
