@@ -40,12 +40,24 @@ Services and factories, http calls
 17. Statements and Expressions  
 18. The Conditional (Ternary) Operator  
 
-##### Section 1 - Javascript fundamentals: part 1  
+##### Section 2 - Javascript fundamentals: part 2  
 1. Activating Strict Mode  
 2. Functions  
 3. Function Declarations vs. Expressions  
 4. Arrow functions  
 5. Functions Calling Other Functions  
+6. Reviewing Functions  
+7. Introduction to Arrays  
+8. Basic Array Operations (Methods)  
+9. Introduction to Objects  
+10. Dot vs. Bracket Notation  
+11. Object Methods  
+12. Iteration: The for Loop  
+13. Looping Arrays, Breaking and Continuing  
+14. Looping Backwards and Loops in Loops  
+15. The while Loop  
+
+##### Section 3 - Developer Skills & Editor setup  
 
 
 
