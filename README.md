@@ -67,3 +67,7 @@ Services and factories, http calls
 
 1. Using Google, StackOverflow and MDN
 2. Debugging with the Console and Breakpoints
+
+##### Section 4 - HTML & CSS
+
+...
