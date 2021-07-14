@@ -71,3 +71,9 @@ Services and factories, http calls
 ##### Section 4 - HTML & CSS
 
 ...
+
+##### Section 5 - Guess My Number Project
+
+DOM manupulation with plain JS and Web API (querySelector(), addEventListener())
+
+##### Section 6 - Modal Project
