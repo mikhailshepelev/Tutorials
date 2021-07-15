@@ -70,10 +70,16 @@ Services and factories, http calls
 
 ##### Section 4 - HTML & CSS
 
-...
+HTML & CSS basics
 
 ##### Section 5 - Guess My Number Project
 
 DOM manupulation with plain JS and Web API (querySelector(), addEventListener())
 
 ##### Section 6 - Modal Project
+
+DOM manupulation with plain JS and Web API (querySelector(), querySelectorAll(), addEventListener(), methods of Wev API with keyboard communication, working with css styles (adding, removing, etc) on a fly)
+
+##### Section 7 - Pig Game
+
+DOM manupulation with plain JS and Web API (querySelector(), getElementById(), addEventListener(), working with css styles (adding, removing, etc) and images on a fly)
