@@ -83,3 +83,11 @@ DOM manupulation with plain JS and Web API (querySelector(), querySelectorAll(),
 ##### Section 7 - Pig Game
 
 DOM manupulation with plain JS and Web API (querySelector(), getElementById(), addEventListener(), working with css styles (adding, removing, etc) and images on a fly)
+
+##### Section 8 - How Javascript works behind the scenes
+
+1. High-level overview of Javascript (JS paradigms, language features)
+2. Javascript engine, runtime, compilation
+3. Execution contexts, call stack
+4. Scopes and scope chains in Javascript
+5. Scoping in Practice
