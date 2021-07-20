@@ -90,4 +90,7 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 2. Javascript engine, runtime, compilation
 3. Execution contexts, call stack
 4. Scopes and scope chains in Javascript
-5. Scoping in Practice
+5. Hoisting and Temporal Dead Zone
+6. How this keywork works
+7. Regular Functions vs. Arrow Functions
+8. Objects vs. primitives
