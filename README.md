@@ -22,7 +22,7 @@ Services and factories, http calls
 
 ##### Section 6
 
-### Javascript course
+### Javascript Course
 
 ##### Section 1 - Javascript fundamentals: part 1
 
@@ -91,6 +91,25 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 3. Execution contexts, call stack
 4. Scopes and scope chains in Javascript
 5. Hoisting and Temporal Dead Zone
-6. How this keywork works
+6. How this keyword works
 7. Regular Functions vs. Arrow Functions
 8. Objects vs. primitives
+
+##### Section 9 - Data Structures, Modern Operators & Strings
+
+1. Destructuring arrays
+2. Destructuring objects
+
+### Java/Spring Software Testing Course
+
+##### Module 1 - JUnit 5 Basics
+
+Basic annotations and features of JUnit 5
+
+##### Module 2 - Test Driven Development as Example
+
+Step by step TDD implementation example with basic JUnit 5 usage
+
+##### Module 3 - JUnit Testing - Pet Clinic project
+
+Advanced Junit testing, advanced annotations, testing typical application layers connected to each other - Services, Controllers, Views, Models
