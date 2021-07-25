@@ -99,6 +99,10 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 
 1. Destructuring arrays
 2. Destructuring objects
+3. The Spread Operator (...)
+4. Rest Pattern and Parameters
+5. Short Circuiting (&& and ||)
+6. The Nullish Coalescing Operator
 
 ### Java/Spring Software Testing Course
 
