@@ -2,6 +2,7 @@ package sfgpetclinic.controllers;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import sfgpetclinic.ControllerTests;
 import sfgpetclinic.fauxspring.Model;
 import sfgpetclinic.fauxspring.ModelMapImpl;
 import sfgpetclinic.model.Vet;
@@ -14,7 +15,7 @@ import java.util.Set;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-class VetControllerTest {
+class VetControllerTest implements ControllerTests {
 
     VetService vetService;
     SpecialtyService specialtyService;

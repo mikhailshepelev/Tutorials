@@ -1,9 +1,7 @@
 package sfgpetclinic.services.map;
 
 import sfgpetclinic.model.BaseEntity;
-
 import java.util.*;
-
 
 public abstract class AbstractMapService<T extends BaseEntity, ID extends Long> {
 
