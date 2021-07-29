@@ -116,4 +116,7 @@ Step by step TDD implementation example with basic JUnit 5 usage
 
 ##### Module 3 - JUnit Testing - Pet Clinic project
 
-Advanced Junit testing, advanced annotations, testing typical application layers connected to each other - Services, Controllers, Views, Models
+1. Advanced Junit testing, advanced annotations
+2. Testing typical application layers connected to each other - Services, Controllers, Views, Models
+3. Maven setup for testing: builds, plugins, command line, circleci.com
+4. Mockito framework, basic features
