@@ -120,3 +120,4 @@ Step by step TDD implementation example with basic JUnit 5 usage
 2. Testing typical application layers connected to each other - Services, Controllers, Views, Models
 3. Maven setup for testing: builds, plugins, command line, circleci.com
 4. Mockito framework, basic features
+5. BDD Mockito testing (different syntax inspired by BDD - given/when/then)
