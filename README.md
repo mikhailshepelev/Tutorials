@@ -121,3 +121,9 @@ Step by step TDD implementation example with basic JUnit 5 usage
 3. Maven setup for testing: builds, plugins, command line, circleci.com
 4. Mockito framework, basic features
 5. BDD Mockito testing (different syntax inspired by BDD - given/when/then)
+6. Advanced Mockito features, spies, stubs, answers, argument captors
+
+##### Module 3 - Spring Testing - Pet Clinic project
+
+1. Standard Mockito and JUnit usage in spring project
+2. Using spring context in tests, setting up config classes, beans, profiles
