@@ -123,7 +123,12 @@ Step by step TDD implementation example with basic JUnit 5 usage
 5. BDD Mockito testing (different syntax inspired by BDD - given/when/then)
 6. Advanced Mockito features, spies, stubs, answers, argument captors
 
-##### Module 3 - Spring Testing - Pet Clinic project
+##### Module 4 - Spring Testing - Pet Clinic project
 
 1. Standard Mockito and JUnit usage in spring project
 2. Using spring context in tests, setting up config classes, beans, profiles
+3. Controllers testing with using of MockMvc - standalone setup and with spring context being wired
+
+##### Module 5 - Spring boot testing - SFG Brewery project
+
+1. Setting up spring boot environment and bringing spring boot context to testing

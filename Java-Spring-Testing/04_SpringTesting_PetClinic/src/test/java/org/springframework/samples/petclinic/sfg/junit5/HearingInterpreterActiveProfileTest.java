@@ -10,9 +10,6 @@ import org.springframework.test.context.junit.jupiter.SpringJUnitConfig;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-/**
- * Created by jt on 2019-02-18.
- */
 @ActiveProfiles("yanny")
 @SpringJUnitConfig(classes = HearingInterpreterActiveProfileTest.TestConfig.class)
 public class HearingInterpreterActiveProfileTest {
