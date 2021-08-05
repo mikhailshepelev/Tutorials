@@ -1,6 +1,5 @@
 package sfgpetclinic.repositories;
 
-
 import sfgpetclinic.model.Owner;
 
 import java.util.List;

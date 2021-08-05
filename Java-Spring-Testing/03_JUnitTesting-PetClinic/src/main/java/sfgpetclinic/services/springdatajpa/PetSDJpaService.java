@@ -7,7 +7,6 @@ import sfgpetclinic.services.PetService;
 import java.util.HashSet;
 import java.util.Set;
 
-
 public class PetSDJpaService implements PetService {
 
     private final PetRepository petRepository;

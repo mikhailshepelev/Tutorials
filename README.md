@@ -132,3 +132,5 @@ Step by step TDD implementation example with basic JUnit 5 usage
 ##### Module 5 - Spring boot testing - SFG Brewery project
 
 1. Setting up spring boot environment and bringing spring boot context to testing
+2. Testing REST controllers - unit testing and integration testing
+3. Using wiremock stubs for testing

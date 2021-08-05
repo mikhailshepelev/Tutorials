@@ -14,7 +14,6 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-
 class OwnerTest implements ModelTests {
 
     @Test

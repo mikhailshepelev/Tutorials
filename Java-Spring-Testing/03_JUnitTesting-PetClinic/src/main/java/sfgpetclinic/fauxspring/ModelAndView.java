@@ -1,6 +1,5 @@
 package sfgpetclinic.fauxspring;
 
-
 public class ModelAndView {
 
     public ModelAndView() {
@@ -9,6 +8,6 @@ public class ModelAndView {
     public ModelAndView(String view) {
     }
 
-    public void addObject(Object o){}
-
+    public void addObject(Object o){
+    }
 }

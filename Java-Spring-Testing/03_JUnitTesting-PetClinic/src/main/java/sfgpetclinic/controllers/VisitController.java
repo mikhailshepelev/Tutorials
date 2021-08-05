@@ -10,7 +10,6 @@ import sfgpetclinic.services.VisitService;
 import javax.validation.Valid;
 import java.util.Map;
 
-
 public class VisitController {
 
     private final VisitService visitService;
