@@ -103,6 +103,9 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 4. Rest Pattern and Parameters
 5. Short Circuiting (&& and ||)
 6. The Nullish Coalescing Operator
+7. The for-of Loop
+8. Optional Chaining
+9. Looping Objects: Object Keys, Values, and Entries
 
 ### Java/Spring Software Testing Course
 
@@ -134,3 +137,4 @@ Step by step TDD implementation example with basic JUnit 5 usage
 1. Setting up spring boot environment and bringing spring boot context to testing
 2. Testing REST controllers - unit testing and integration testing
 3. Using wiremock stubs for testing
+4. Spring REST docs usage examples
