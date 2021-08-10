@@ -106,6 +106,9 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 7. The for-of Loop
 8. Optional Chaining
 9. Looping Objects: Object Keys, Values, and Entries
+10. Sets
+11. Maps
+12. Maps: Iteration
 
 ### Java/Spring Software Testing Course
 
