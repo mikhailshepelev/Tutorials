@@ -109,6 +109,7 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 10. Sets
 11. Maps
 12. Maps: Iteration
+13. Working with Strings
 
 ### Java/Spring Software Testing Course
 
