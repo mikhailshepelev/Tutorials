@@ -111,6 +111,15 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 12. Maps: Iteration
 13. Working with Strings
 
+##### Section 10 - Functions
+
+1. Default parameters
+2. How Passing Arguments Works: Values vs. Reference
+3. Functions Accepting Callback Functions
+4. Functions Returning Functions
+5. The call and apply Methods
+6. The bind Method
+
 ### Java/Spring Software Testing Course
 
 ##### Module 1 - JUnit 5 Basics
