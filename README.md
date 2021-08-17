@@ -119,6 +119,15 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 4. Functions Returning Functions
 5. The call and apply Methods
 6. The bind Method
+7. Immediately Invoked Function Expressions (IIFE)
+8. Closures
+
+##### Section 11 - Working with arrays - banklist project
+
+1. Slice, splice, concat, reverse, join
+2. Looping Arrays: forEach
+3. forEach With Maps and Sets
+4. DOM manupulation by JS
 
 ### Java/Spring Software Testing Course
 
@@ -150,4 +159,7 @@ Step by step TDD implementation example with basic JUnit 5 usage
 1. Setting up spring boot environment and bringing spring boot context to testing
 2. Testing REST controllers - unit testing and integration testing
 3. Using wiremock stubs for testing
-4. Spring REST docs usage examples
+
+##### Module 6 - Spring boot testing - Brewery Microservice app
+
+Examples of spring REST docs usage in tests
