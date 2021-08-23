@@ -128,6 +128,10 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 2. Looping Arrays: forEach
 3. forEach With Maps and Sets
 4. DOM manupulation by JS
+5. The map Method
+6. The filter Method
+7. The reduce Method
+8. The Magic of Chaining Methods
 
 ### Java/Spring Software Testing Course
 
