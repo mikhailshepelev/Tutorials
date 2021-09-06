@@ -132,6 +132,11 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 6. The filter Method
 7. The reduce Method
 8. The Magic of Chaining Methods
+9. The find Method
+10. Some and every
+11. Flat and flatMap
+12. Sorting Arrays
+13. More Ways of Creating and Filling Arrays
 
 ### Java/Spring Software Testing Course
 
