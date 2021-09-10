@@ -138,6 +138,17 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 12. Sorting Arrays
 13. More Ways of Creating and Filling Arrays
 
+##### Section 12 - Numbers, Dates, Intl and Timers - banklist project (second part)
+
+1. Converting and Checking Numbers
+2. Math and Rounding
+3. The Remainder Operator
+4. Working with BigInt
+5. Creating Dates
+6. Operations With Dates
+7. Internationalizing Numbers (Intl)
+8. Timers
+
 ### Java/Spring Software Testing Course
 
 ##### Module 1 - JUnit 5 Basics
