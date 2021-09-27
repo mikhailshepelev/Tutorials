@@ -122,7 +122,7 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 7. Immediately Invoked Function Expressions (IIFE)
 8. Closures
 
-##### Section 11 - Working with arrays - banklist project
+##### Section 11 - Working with arrays - bankist project
 
 1. Slice, splice, concat, reverse, join
 2. Looping Arrays: forEach
@@ -138,7 +138,7 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 12. Sorting Arrays
 13. More Ways of Creating and Filling Arrays
 
-##### Section 12 - Numbers, Dates, Intl and Timers - banklist project (second part)
+##### Section 12 - Numbers, Dates, Intl and Timers - bankist project (second part)
 
 1. Converting and Checking Numbers
 2. Math and Rounding
@@ -148,6 +148,12 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 6. Operations With Dates
 7. Internationalizing Numbers (Intl)
 8. Timers
+
+##### Section 13 - Advanced DOM and Events - bankist project (fully functional site)
+
+1. Selecting, Creating, and Deleting Elements
+2. Styles, Attributes and Classes
+3. Button scrolling
 
 ### Java/Spring Software Testing Course
 
