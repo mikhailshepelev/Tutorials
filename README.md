@@ -154,6 +154,18 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 1. Selecting, Creating, and Deleting Elements
 2. Styles, Attributes and Classes
 3. Button scrolling
+4. Types of Events and Event Handlers
+5. Event Propagation: Bubbling and Capturing
+6. Event delegation/Page navigation
+7. DOM traversing
+8. Tabbed component
+9. Menu fade animation/Passing arguments to event handlers
+10. Sticky navigation: Intersection Observer API - scroll event
+11. Reveal sections/Revealing elements on scroll
+12. Lazy loading images
+13. Slider (Elements change by clicking on left/right arrows or clicking on dots in the bottom)
+14. Lifecycle DOM Events
+15. Efficient script loading: defer and async
 
 ### Java/Spring Software Testing Course
 
