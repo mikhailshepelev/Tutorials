@@ -167,6 +167,22 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 14. Lifecycle DOM Events
 15. Efficient script loading: defer and async
 
+##### Section 14 - Object-Oriented programming
+
+1. Constructor Functions and the new Operator
+2. Prototypes
+3. Prototypal Inheritance on Built-In Objects
+4. ES6 Classes
+5. Setters and Getters
+6. Static methods
+7. Object.create()
+8. Inheritance Between "Classes": Constructor Functions
+9. Inheritance Between "Classes": ES6 Classes
+10. Inheritance Between "Classes": Object.create
+11. Encapsulation: Protected Properties and Methods
+12. Encapsulation: Private Class Fields and Methods
+13. Chaining
+
 ### Java/Spring Software Testing Course
 
 ##### Module 1 - JUnit 5 Basics
