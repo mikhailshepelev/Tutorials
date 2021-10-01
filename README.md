@@ -183,6 +183,19 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 12. Encapsulation: Private Class Fields and Methods
 13. Chaining
 
+##### Section 15 - Mapty app - OOP, Geolocation, External libraries
+
+1. Built-in Geolocation API
+2. Leaflet library - third-party library for displaying a map
+3. Displaying map marker by click on map
+4. Rendering input form
+5. Creating root "App" class, parent class of workout and its successors. Creating objects by interface clicks
+6. Creating and rendering workouts
+7. Move to marker on click
+8. Working with localStorage
+
+##### Section 16 - Asynchronous JavaScript: Promises, Async/Await, and AJAX
+
 ### Java/Spring Software Testing Course
 
 ##### Module 1 - JUnit 5 Basics
