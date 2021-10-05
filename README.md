@@ -196,6 +196,18 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 
 ##### Section 16 - Asynchronous JavaScript: Promises, Async/Await, and AJAX
 
+1. Asynchronous JS, AJAX and APIs
+2. AJAX Call: XMLHttpRequest
+3. Welcome to Callback Hell
+4. Consuming Promises, Chaining Promises, Handling Rejected Promises, Throwing Errors Manually
+5. The Event Loop in Practice
+6. Building a Simple Promise
+7. Promisifying the Geolocation API
+8. Consuming Promises with Async/Await, Error Handling With try...catch
+9. Returning Values from Async Functions
+10. Running Promises in Parallel
+11. Other Promise Combinators: race, allSettled and any
+
 ### Java/Spring Software Testing Course
 
 ##### Module 1 - JUnit 5 Basics
