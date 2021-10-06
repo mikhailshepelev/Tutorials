@@ -208,6 +208,16 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 10. Running Promises in Parallel
 11. Other Promise Combinators: race, allSettled and any
 
+##### Section 17 - Modern JS development: Modules, Tooling and Functional
+
+1. Exporting and Importing in ES6 Modules
+2. The Module Pattern
+3. CommonJS Modules
+4. Introduction to NPM
+5. Bundling with parcel and NPM scripts
+6. Configuring Babel and polyfilling
+7. Declarative and functional JS principles
+
 ### Java/Spring Software Testing Course
 
 ##### Module 1 - JUnit 5 Basics
