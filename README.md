@@ -218,6 +218,13 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 6. Configuring Babel and polyfilling
 7. Declarative and functional JS principles
 
+##### Section 18 - Forkify app - building a modern application
+
+1. Parcel usage demonstration
+2. Real API calls, processing and rendering data
+3. Spinner visualization when data is loading implementation
+4. Listening for load and hashchange events
+
 ### Java/Spring Software Testing Course
 
 ##### Module 1 - JUnit 5 Basics
