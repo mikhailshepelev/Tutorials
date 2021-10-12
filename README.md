@@ -224,6 +224,10 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 2. Real API calls, processing and rendering data
 3. Spinner visualization when data is loading implementation
 4. Listening for load and hashchange events
+5. MVC implementation
+6. Creating configuration file with constants
+7. Error handling/rendering error messages
+8. 
 
 ### Java/Spring Software Testing Course
 
