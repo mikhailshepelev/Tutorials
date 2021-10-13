@@ -227,7 +227,9 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 5. MVC implementation
 6. Creating configuration file with constants
 7. Error handling/rendering error messages
-8. 
+8. Implementing search results
+9. Implementing pagination
+10. Developing a DOM updating algorithm
 
 ### Java/Spring Software Testing Course
 
