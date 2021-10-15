@@ -230,6 +230,9 @@ DOM manupulation with plain JS and Web API (querySelector(), getElementById(), a
 8. Implementing search results
 9. Implementing pagination
 10. Developing a DOM updating algorithm
+11. Implementing bookmarks
+12. Storing bookmarks with localStorage
+13. Uploading new recipe/POST request
 
 ### Java/Spring Software Testing Course
 
