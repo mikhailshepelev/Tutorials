@@ -268,3 +268,11 @@ Step by step TDD implementation example with basic JUnit 5 usage
 ##### Module 6 - Spring boot testing - Brewery Microservice app
 
 Examples of spring REST docs usage in tests
+
+### Advanced CSS course
+
+##### Section 1 - Natours project: setup and first steps
+
+1. Building a header: setting up font properties, positioning elements in relation to each other, nice background images with gradients and clip-path, heading text decorations. 
+2. Creating simple and more advanced animations on text.
+3. Builing a complex animated button: using variety of different animation and good practices, using pseudoselectors (hover, active, link, visited, after)
