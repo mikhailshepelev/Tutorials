@@ -276,3 +276,9 @@ Examples of spring REST docs usage in tests
 1. Building a header: setting up font properties, positioning elements in relation to each other, nice background images with gradients and clip-path, heading text decorations. 
 2. Creating simple and more advanced animations on text.
 3. Builing a complex animated button: using variety of different animation and good practices, using pseudoselectors (hover, active, link, visited, after)
+
+##### Section 2 - How CSS works: A look behind the scenes
+
+1. Adding inheritance of properties to Natours project
+2. Refactoring all px values to rem, calculated from root element
+3. Changed namings in accordance with Block-Element-Modificator (BEM) methodology
