@@ -282,3 +282,9 @@ Examples of spring REST docs usage in tests
 1. Adding inheritance of properties to Natours project
 2. Refactoring all px values to rem, calculated from root element
 3. Changed namings in accordance with Block-Element-Modificator (BEM) methodology
+
+##### Section 3 - Introduction to Sass and NPM
+
+1. NPM initialization to Natours project
+2. Using Sass in Natours project
+3. Compiling Sass to CSS via NPM script
