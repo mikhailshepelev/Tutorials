@@ -288,3 +288,9 @@ Examples of spring REST docs usage in tests
 1. NPM initialization to Natours project
 2. Using Sass in Natours project
 3. Compiling Sass to CSS via NPM script
+
+##### Section 4 - Natours Project - Using Advanced CSS and Sass
+
+1. Converting Our CSS Code to Sass: Variables and Nesting
+2. Implementing the 7-1 CSS Architecture with Sass
+3. Building a Custom Grid with Floats (Using plain "float" css property to build a grid with gaps)
