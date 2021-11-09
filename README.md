@@ -295,4 +295,5 @@ Examples of spring REST docs usage in tests
 2. Implementing the 7-1 CSS Architecture with Sass
 3. Building a Custom Grid with Floats (Using plain "float" css property to build a grid with gaps)
 4. Building the About section (using grid via floats to position elements, implementing pictures positioned on different sides of element with gapped borders on hover, transforming and skewing header text)
-5. Building the Features section (using grid to position 4 same elements, skewing entire section, using icons from linea.io) 
+5. Building the Features section (using grid to position 4 similar elements, skewing entire section, using icons from linea.io) 
+6. Building the Tours section (flipping card implementation + content and animations on both sides)
