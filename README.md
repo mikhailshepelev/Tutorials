@@ -301,3 +301,57 @@ Examples of spring REST docs usage in tests
 8. Building the Booking section (building styled form, using solid color gradient, self-styled color buttons and validation fields)
 9. Builing the Footer section (logo + buttons list and copyright)
 10. Building Navigation section (fixed radio button in upper right corner + on clicking navigation section opens with links to certain page sections)
+
+### Java course
+
+##### Section 3 - First steps
+
+1. Main method
+2. Variables
+3. Expressions
+4. Primitive types
+5. Casting in Java
+6. Operators, Operands and Expressions
+7. if-then
+8. Logical and, OR operators
+9. Assignment and Equals operators
+10. Ternary operator
+11. Operator precedence
+
+##### Section 4 - Expressions, Statements, Code blocks, Methods and more
+
+1. Keywords and expressions
+2. Statements, whitespace and indentation
+3. Code blocks and the if-then-else control statements
+4. Methods in java
+5. Diffmerge tool
+6. Method overloading
+
+##### Section 5 - Control flow statements
+
+1. The switch statement
+2. The for statement
+3. While-do statements
+4. Reading user input
+
+##### Section 6 - OOP part 1
+
+1. Classes
+2. Constructors
+3. Inheritance
+4. Reference vs Object vs Instance vs Class
+5. this vs super
+6. Method overloading and overriding
+7. Static vs instance methods
+
+##### Section 7 - OOP part 2
+
+1. Composition
+2. Encapsulation
+3. Polymorphism
+
+##### Section 6 - Arrays, Java inbuilt lists, Autoboxing and Unboxing
+
+1. Arrays
+2. Reference types vs Value types
+3. List and ArrayList
