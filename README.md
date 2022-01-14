@@ -299,3 +299,5 @@ Examples of spring REST docs usage in tests
 6. Building the Tours section (flipping card implementation + content and animations on both sides)
 7. Building the Stories section (creating shapes with images inside, floating text around it, setting up background video on element)
 8. Building the Booking section (building styled form, using solid color gradient, self-styled color buttons and validation fields)
+9. Builing the Footer section (logo + buttons list and copyright)
+10. Building Navigation section (fixed radio button in upper right corner + on clicking navigation section opens with links to certain page sections)
