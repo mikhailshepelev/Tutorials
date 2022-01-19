@@ -1,6 +1,6 @@
 package section_7_oop_part_2_composition_encapsulation_polymorphism.encapsulation;
 
-import encapsulation_exercise.Printer;
+import section_7_oop_part_2_composition_encapsulation_polymorphism.encapsulation_exercise.Printer;
 
 public class Main {
     public static void main(String[] args) {
