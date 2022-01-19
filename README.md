@@ -273,7 +273,7 @@ Examples of spring REST docs usage in tests
 
 ##### Section 1 - Natours project: setup and first steps
 
-1. Building a header: setting up font properties, positioning elements in relation to each other, nice background images with gradients and clip-path, heading text decorations. 
+1. Building a header: setting up font properties, positioning elements in relation to each other, nice background images with gradients and clip-path, heading text decorations.
 2. Creating simple and more advanced animations on text.
 3. Builing a complex animated button: using variety of different animation and good practices, using pseudoselectors (hover, active, link, visited, after)
 
@@ -295,12 +295,13 @@ Examples of spring REST docs usage in tests
 2. Implementing the 7-1 CSS Architecture with Sass
 3. Building a Custom Grid with Floats (Using plain "float" css property to build a grid with gaps)
 4. Building the About section (using grid via floats to position elements, implementing pictures positioned on different sides of element with gapped borders on hover, transforming and skewing header text)
-5. Building the Features section (using grid to position 4 similar elements, skewing entire section, using icons from linea.io) 
+5. Building the Features section (using grid to position 4 similar elements, skewing entire section, using icons from linea.io)
 6. Building the Tours section (flipping card implementation + content and animations on both sides)
 7. Building the Stories section (creating shapes with images inside, floating text around it, setting up background video on element)
 8. Building the Booking section (building styled form, using solid color gradient, self-styled color buttons and validation fields)
 9. Builing the Footer section (logo + buttons list and copyright)
 10. Building Navigation section (fixed radio button in upper right corner + on clicking navigation section opens with links to certain page sections)
+11. Building fixed Popup on top of layout - using anchors and animations
 
 ### Java course
 
