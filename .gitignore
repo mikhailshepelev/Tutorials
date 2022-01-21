@@ -1,3 +1,4 @@
 /.idea/
 /Advanced-CSS/01_Natours_Project/node_modules/
-/Java/output/
+/Java/out/
+.DS_Store

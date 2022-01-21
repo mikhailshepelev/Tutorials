@@ -303,6 +303,13 @@ Examples of spring REST docs usage in tests
 10. Building Navigation section (fixed radio button in upper right corner + on clicking navigation section opens with links to certain page sections)
 11. Building fixed Popup on top of layout - using anchors and animations
 
+##### Section 5 - Natours Project - Advanced Responsive design
+
+1. Creating a responsive design with media queries for different vieports (defining reusable mixins to be used in different media queries)
+2. Writing media queries - base, typography and layout
+3. Writing media queries - Layout, about and features sections
+4. Writing media queries - Tours, booking and stories sections
+
 ### Java course
 
 ##### Section 3 - First steps
