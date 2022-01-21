@@ -7,18 +7,19 @@
 @import "base/typography";
 @import "base/utilities";
 
-@import "pages/home";
-
+@import "components/bg-video";
 @import "components/button";
+@import "components/card";
 @import "components/composition";
 @import "components/feature-box";
-@import "components/card";
-@import "components/story";
-@import "components/bgvideo";
 @import "components/form";
 @import "components/popup";
+@import "components/story";
 
-@import "layout/header";
-@import "layout/grid";
 @import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
 @import "layout/navigation";
+
+@import "pages/home";
+

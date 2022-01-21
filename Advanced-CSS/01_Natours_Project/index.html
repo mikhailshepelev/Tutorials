@@ -3,18 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <link
       href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="css/icon-font.css" />
+    <!--<link rel="stylesheet" href="css/icon-font.css">-->
+
     <link rel="stylesheet" href="css/style.css" />
     <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
 
     <title>Natours | Exciting tours for adventurous people</title>
   </head>
+
   <body>
     <div class="navigation">
       <input type="checkbox" class="navigation__checkbox" id="navi-toggle" />
@@ -59,7 +62,9 @@
           <span class="heading-primary--sub">is where life happens</span>
         </h1>
 
-        <a href="#" class="btn btn--white btn--animated">Discover our tours</a>
+        <a href="#section-tours" class="btn btn--white btn--animated"
+          >Discover our tours</a
+        >
       </div>
     </header>
 
@@ -70,23 +75,24 @@
             Exciting tours for adventurous people
           </h2>
         </div>
+
         <div class="row">
           <div class="col-1-of-2">
             <h3 class="heading-tertiary u-margin-bottom-small">
               You're going to fall in love with nature
             </h3>
             <p class="paragraph">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias
-              molestiae unde. Dicta doloremque eos error in numquam! Alias animi
-              in magni nobis officia possimus sequi similique soluta! Delectus,
-              optio.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam,
+              ipsum sapiente aspernatur libero repellat quis consequatur ducimus
+              quam nisi exercitationem omnis earum qui.
             </p>
+
             <h3 class="heading-tertiary u-margin-bottom-small">
               Live adventures like you never have before
             </h3>
             <p class="paragraph">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet
-              nihil quam sed.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Asperiores nulla deserunt voluptatum nam.
             </p>
 
             <a href="#" class="btn-text">Learn more &rarr;</a>
@@ -94,20 +100,34 @@
           <div class="col-1-of-2">
             <div class="composition">
               <img
-                src="img/nat-1-large.jpg"
+                srcset="img/nat-1.jpg 300w, img/nat-1-large.jpg 1000w"
+                sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
                 alt="Photo 1"
                 class="composition__photo composition__photo--p1"
+                src="img/nat-1-large.jpg"
               />
+
               <img
-                src="img/nat-2-large.jpg"
+                srcset="img/nat-2.jpg 300w, img/nat-2-large.jpg 1000w"
+                sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
                 alt="Photo 2"
                 class="composition__photo composition__photo--p2"
+                src="img/nat-2-large.jpg"
               />
+
               <img
-                src="img/nat-3-large.jpg"
+                srcset="img/nat-3.jpg 300w, img/nat-3-large.jpg 1000w"
+                sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
                 alt="Photo 3"
                 class="composition__photo composition__photo--p3"
+                src="img/nat-3-large.jpg"
               />
+
+              <!--
+                            <img src="img/nat-1-large.jpg" alt="Photo 1" class="composition__photo composition__photo--p1">
+                            <img src="img/nat-2-large.jpg" alt="Photo 2" class="composition__photo composition__photo--p2">
+                            <img src="img/nat-3-large.jpg" alt="Photo 3" class="composition__photo composition__photo--p3">
+                            -->
             </div>
           </div>
         </div>
@@ -122,13 +142,12 @@
                 Explore the world
               </h3>
               <p class="feature-box__text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Accusantium aliquid consectetur eaque excepturi facere harum
-                ipsum magnam mollitia nemo sunt. A, eius suscipit! Accusamus
-                dignissimos, facilis neque possimus quo ullam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Aperiam, ipsum sapiente aspernatur.
               </p>
             </div>
           </div>
+
           <div class="col-1-of-4">
             <div class="feature-box">
               <i class="feature-box__icon icon-basic-compass"></i>
@@ -136,13 +155,12 @@
                 Meet nature
               </h3>
               <p class="feature-box__text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Accusantium aliquid consectetur eaque excepturi facere harum
-                ipsum magnam mollitia nemo sunt. A, eius suscipit! Accusamus
-                dignissimos, facilis neque possimus quo ullam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Aperiam, ipsum sapiente aspernatur.
               </p>
             </div>
           </div>
+
           <div class="col-1-of-4">
             <div class="feature-box">
               <i class="feature-box__icon icon-basic-map"></i>
@@ -150,13 +168,12 @@
                 Find your way
               </h3>
               <p class="feature-box__text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Accusantium aliquid consectetur eaque excepturi facere harum
-                ipsum magnam mollitia nemo sunt. A, eius suscipit! Accusamus
-                dignissimos, facilis neque possimus quo ullam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Aperiam, ipsum sapiente aspernatur.
               </p>
             </div>
           </div>
+
           <div class="col-1-of-4">
             <div class="feature-box">
               <i class="feature-box__icon icon-basic-heart"></i>
@@ -164,20 +181,19 @@
                 Live a healthier life
               </h3>
               <p class="feature-box__text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Accusantium aliquid consectetur eaque excepturi facere harum
-                ipsum magnam mollitia nemo sunt. A, eius suscipit! Accusamus
-                dignissimos, facilis neque possimus quo ullam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Aperiam, ipsum sapiente aspernatur.
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="section-tours">
+      <section class="section-tours" id="section-tours">
         <div class="u-center-text u-margin-bottom-big">
           <h2 class="heading-secondary">Most popular tours</h2>
         </div>
+
         <div class="row">
           <div class="col-1-of-3">
             <div class="card">
@@ -190,7 +206,7 @@
                 </h4>
                 <div class="card__details">
                   <ul>
-                    <li>3 day tour</li>
+                    <li>3 day tours</li>
                     <li>Up to 30 people</li>
                     <li>2 tour guides</li>
                     <li>Sleep in cozy hotels</li>
@@ -209,6 +225,7 @@
               </div>
             </div>
           </div>
+
           <div class="col-1-of-3">
             <div class="card">
               <div class="card__side card__side--front">
@@ -220,7 +237,7 @@
                 </h4>
                 <div class="card__details">
                   <ul>
-                    <li>7 day tour</li>
+                    <li>7 day tours</li>
                     <li>Up to 40 people</li>
                     <li>6 tour guides</li>
                     <li>Sleep in provided tents</li>
@@ -239,6 +256,7 @@
               </div>
             </div>
           </div>
+
           <div class="col-1-of-3">
             <div class="card">
               <div class="card__side card__side--front">
@@ -250,7 +268,7 @@
                 </h4>
                 <div class="card__details">
                   <ul>
-                    <li>5 day tour</li>
+                    <li>5 day tours</li>
                     <li>Up to 15 people</li>
                     <li>3 tour guides</li>
                     <li>Sleep in provided tents</li>
@@ -297,7 +315,7 @@
                 alt="Person on a tour"
                 class="story__img"
               />
-              <figcaption class="story__caption">Jack Wilson</figcaption>
+              <figcaption class="story__caption">Mary Smith</figcaption>
             </figure>
             <div class="story__text">
               <h3 class="heading-tertiary u-margin-bottom-small">
@@ -322,7 +340,7 @@
                 alt="Person on a tour"
                 class="story__img"
               />
-              <figcaption class="story__caption">Mary Smith</figcaption>
+              <figcaption class="story__caption">Jack Wilson</figcaption>
             </figure>
             <div class="story__text">
               <h3 class="heading-tertiary u-margin-bottom-small">
@@ -357,7 +375,7 @@
                   <input
                     type="text"
                     class="form__input"
-                    placeholder="Full Name"
+                    placeholder="Full name"
                     id="name"
                     required
                   />
@@ -388,6 +406,7 @@
                       Small tour group
                     </label>
                   </div>
+
                   <div class="form__radio-group">
                     <input
                       type="radio"
@@ -401,6 +420,7 @@
                     </label>
                   </div>
                 </div>
+
                 <div class="form__group">
                   <button class="btn btn--green">Next step &rarr;</button>
                 </div>
@@ -413,7 +433,20 @@
 
     <footer class="footer">
       <div class="footer__logo-box">
-        <img src="img/logo-green-2x.png" alt="Full logo" class="footer__logo" />
+        <picture class="footer__logo">
+          <source
+            srcset="
+              img/logo-green-small-1x.png 1x,
+              img/logo-green-small-2x.png 2x
+            "
+            media="(max-width: 37.5em)"
+          />
+          <img
+            srcset="img/logo-green-1x.png 1x, img/logo-green-2x.png 2x"
+            alt="Full logo"
+            src="img/logo-green-2x.png"
+          />
+        </picture>
       </div>
       <div class="row">
         <div class="col-1-of-2">
@@ -426,10 +459,10 @@
                 <a href="#" class="footer__link">Contact us</a>
               </li>
               <li class="footer__item">
-                <a href="#" class="footer__link">Careers</a>
+                <a href="#" class="footer__link">Carrers</a>
               </li>
               <li class="footer__item">
-                <a href="#" class="footer__link">Privacy</a>
+                <a href="#" class="footer__link">Privacy policy</a>
               </li>
               <li class="footer__item">
                 <a href="#" class="footer__link">Terms</a>
@@ -439,13 +472,13 @@
         </div>
         <div class="col-1-of-2">
           <p class="footer__copyright">
-            Built my <a href="#" class="footer__link">Jonas Schmedtmann</a> for
+            Built by <a href="#" class="footer__link">Jonas Schmedtmann</a> for
             his online course
-            <a href="#" class="footer__link"> Advanced CSS and Sass</a>.
-            Copyright &copy; by Jonas Schedtmann. You are 100% allowed to use
+            <a href="#" class="footer__link">Advanced CSS and Sass</a>.
+            Copyright &copy; by Jonas Schmedtmann. You are 100% allowed to use
             this webpage for both personal and commercial use, but NOT to claim
             it as your own design. A credit to the original author, Jonas
-            Scmedtmann, is of course highly appreciated!
+            Schmedtmann, is of course highly appreciated!
           </p>
         </div>
       </div>
@@ -485,6 +518,7 @@
         </div>
       </div>
     </div>
+
     <!--
         <section class="grid-test">
             <div class="row">
@@ -552,6 +586,7 @@
                     Col 3 of 4
                 </div>
             </div>
-        </section>-->
+        </section>
+        -->
   </body>
 </html>
