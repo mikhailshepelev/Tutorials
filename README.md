@@ -305,10 +305,13 @@ Examples of spring REST docs usage in tests
 
 ##### Section 5 - Natours Project - Advanced Responsive design
 
-1. Creating a responsive design with media queries for different vieports (defining reusable mixins to be used in different media queries)
+1. Creating a responsive design with media queries for different viewports (defining reusable mixins to be used in different media queries)
 2. Writing media queries - base, typography and layout
 3. Writing media queries - Layout, about and features sections
 4. Writing media queries - Tours, booking and stories sections
+5. Responsive images in HTML and CSS
+6. Testing for browser support with @supports
+7. Setting up simple build process with NPM scripts
 
 ### Java course
 
