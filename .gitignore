@@ -2,3 +2,5 @@
 /Advanced-CSS/01_Natours_Project/node_modules/
 /Java/out/
 .DS_Store
+node_modules/
+package-lock.json
