@@ -313,6 +313,14 @@ Examples of spring REST docs usage in tests
 6. Testing for browser support with @supports
 7. Setting up simple build process with NPM scripts
 
+##### Section 6 - Trillo Project - Master Flexbox
+
+1. Building the overall layout
+2. Building the header (using SVG icons from icomoon.io site, using flexbox to build header)
+3. Building the Navigation sidebar (Flexbox + SVG icons + nice filling animation on hover)
+4. Building the Hotel Overview
+5. Building the Description Section (unordered list with -webkit-mask properties)
+
 ### Java course
 
 ##### Section 3 - First steps
