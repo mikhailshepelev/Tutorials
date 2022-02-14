@@ -320,6 +320,9 @@ Examples of spring REST docs usage in tests
 3. Building the Navigation sidebar (Flexbox + SVG icons + nice filling animation on hover)
 4. Building the Hotel Overview
 5. Building the Description Section (unordered list with -webkit-mask properties)
+6. Building User Reviews Section
+7. Building the CTA Section
+8. Writing media queries
 
 ### Java course
 
