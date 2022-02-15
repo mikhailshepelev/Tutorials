@@ -324,6 +324,20 @@ Examples of spring REST docs usage in tests
 7. Building the CTA Section
 8. Writing media queries
 
+##### Section 7 - Nexter Project - Master CSS Grid Layouts
+
+1. Building the Overall Layout
+2. Building the Features Section
+3. Building the Story Section
+4. Building the Homes Section
+5. Building the Gallery (creating grid of images)
+6. Building the Footer
+7. Building the Sidebar
+8. Building the Header
+9. Building the Realtors Section
+10. Writing Media Queries
+11. Browser Support for CSS Grid
+
 ### Java course
 
 ##### Section 3 - First steps
