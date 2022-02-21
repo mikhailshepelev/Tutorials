@@ -20,6 +20,7 @@ Routing, Route parameters
 
 Services and factories, http calls
 
+
 ##### Section 6
 
 ### Javascript Course
@@ -391,3 +392,5 @@ Examples of spring REST docs usage in tests
 1. Arrays
 2. Reference types vs Value types
 3. List and ArrayList
+4. Autoboxing and Unboxing
+5. 
