@@ -387,10 +387,19 @@ Examples of spring REST docs usage in tests
 2. Encapsulation
 3. Polymorphism
 
-##### Section 6 - Arrays, Java inbuilt lists, Autoboxing and Unboxing
+##### Section 8 - Arrays, Java inbuilt lists, Autoboxing and Unboxing
 
 1. Arrays
 2. Reference types vs Value types
 3. List and ArrayList
 4. Autoboxing and Unboxing
-5. 
+5. Linked Lists
+
+##### Section 9 - Inner and Abstract classes & Interfaces
+
+1. Interfaces
+2. Inner classes
+
+### React
+
+1. counter-app - video tutorial by Mosh
