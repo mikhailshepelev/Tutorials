@@ -6,3 +6,5 @@ node_modules/
 package-lock.json
 /React/moshtutorial/.gitignore
 /React/counter-app/.gitignore
+/React/expense-tracker/.gitignore
+/React/../.gitignore
