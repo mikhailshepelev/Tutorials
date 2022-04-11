@@ -404,3 +404,4 @@ Examples of spring REST docs usage in tests
 
 1. counter-app - video tutorial by Mosh
 2. expenses-tracker-app
+3. course-goals app (using different approaches of styling - CSS modules, styled components)

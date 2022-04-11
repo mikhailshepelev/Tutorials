@@ -8,3 +8,4 @@ package-lock.json
 /React/counter-app/.gitignore
 /React/expense-tracker/.gitignore
 /React/../.gitignore
+/React/course-goals/.eslintcache
