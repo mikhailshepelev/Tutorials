@@ -405,3 +405,4 @@ Examples of spring REST docs usage in tests
 2. expenses-tracker-app
 3. course-goals app (using different approaches of styling - CSS modules, styled components)
 4. users-list app (useRef hook with form, using portals, fragments, custom wrappers)
+5. login-app (login/authentication form, using hooks useReducer, useContext)
