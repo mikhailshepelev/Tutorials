@@ -9,10 +9,7 @@ package-lock.json
 /React/counter-app/.gitignore
 /React/expense-tracker/.gitignore
 /React/../.gitignore
-<<<<<<< Updated upstream
 .eslintcache
 
-=======
 /React/course-goals/.eslintcache
 Java/output/production/Java/section_3_first_steps/ByteShortIntLong.class
->>>>>>> Stashed changes
