@@ -10,3 +10,4 @@ package-lock.json
 /React/expense-tracker/.gitignore
 /React/../.gitignore
 .eslintcache
+.gitignore
