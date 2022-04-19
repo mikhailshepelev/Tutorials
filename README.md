@@ -408,3 +408,5 @@ Examples of spring REST docs usage in tests
 5. login-app (login/authentication form, using hooks useReducer, useContext)
 6. food-order-app (example of ecommerce app, with items for sale and card, using modals, portals, context and reducer)
 7. react-under-the-hood projects (example of react optimization and internal work, using useMemo and useCallback hooks)
+8. class-based-components-demo (example of building app via class-based components)
+9. sending-http-requests-demo (example of using http request in react)
