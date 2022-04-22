@@ -411,3 +411,5 @@ Examples of spring REST docs usage in tests
 8. class-based-components-demo (example of building app via class-based components)
 9. sending-http-requests-demo (example of using http request in react)
 10. custom-hooks-demo (example of custom hooks implementation)
+11. forms-and-user-input-demo (example of implementation of forms and user input)
+12. food-order-app-forms-and-http (food order app with forms and http requests)
