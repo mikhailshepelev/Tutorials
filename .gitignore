@@ -11,3 +11,4 @@ package-lock.json
 /React/../.gitignore
 .eslintcache
 .gitignore
+/React/deploying-react-apps-demo/build/
