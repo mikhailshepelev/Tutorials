@@ -415,5 +415,6 @@ Examples of spring REST docs usage in tests
 12. food-order-app-forms-and-http (food order app with forms and http requests)
 13. redux-demo (using redux with react basics)
 14. advanced-redux-demo (using redux with async code and complex logic)
-15. 
+15. router-spa-demo (using react routers and single-page application specialities)
 16. deploying-react-apps (using lazy loading, building, deploying to firebase)
+17. next-js demo (small project written on next.js framework)
