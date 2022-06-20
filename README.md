@@ -418,3 +418,5 @@ Examples of spring REST docs usage in tests
 15. router-spa-demo (using react routers and single-page application specialities)
 16. deploying-react-apps (using lazy loading, building, deploying to firebase)
 17. next-js demo (small project written on next.js framework)
+18. animation-react-apps-demo (usage demo of library react-transition-group)
+19. replacing-redux-with-hooks (alternative approach to redux and global state management: context API and manual global state impl via hooks)
