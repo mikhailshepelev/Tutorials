@@ -420,3 +420,6 @@ Examples of spring REST docs usage in tests
 17. next-js demo (small project written on next.js framework)
 18. animation-react-apps-demo (usage demo of library react-transition-group)
 19. replacing-redux-with-hooks (alternative approach to redux and global state management: context API and manual global state impl via hooks)
+20. react-testing-demo (testing react apps with standards react libs, jest, mocks, testing async code)
+21. react-typescript-demo (using typescript with react demo)
+22. react-hooks-summary
