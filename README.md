@@ -423,3 +423,4 @@ Examples of spring REST docs usage in tests
 20. react-testing-demo (testing react apps with standards react libs, jest, mocks, testing async code)
 21. react-typescript-demo (using typescript with react demo)
 22. react-hooks-summary
+23. react-summary
