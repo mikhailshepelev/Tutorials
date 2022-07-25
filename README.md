@@ -399,6 +399,10 @@ Examples of spring REST docs usage in tests
 1. Interfaces
 2. Inner classes
 
+##### Section 10 - Generics
+
+Generics in java demo
+
 ### React
 
 1. counter-app - video tutorial by Mosh
