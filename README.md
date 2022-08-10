@@ -403,6 +403,16 @@ Examples of spring REST docs usage in tests
 
 Generics in java demo
 
+##### Section 11 - Naming Conventions and Packages, static and final keywords
+
+1. Naming conventions
+2. Packages
+3. Scope
+4. Access Modifiers
+5. Static keyword
+6. Final keyword
+7. Static initializers
+
 ### React
 
 1. counter-app - video tutorial by Mosh
