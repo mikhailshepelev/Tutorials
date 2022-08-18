@@ -413,6 +413,10 @@ Generics in java demo
 6. Final keyword
 7. Static initializers
 
+##### Reactive Java course
+
+1. Stream API examples and exercises
+
 ### React
 
 1. counter-app - video tutorial by Mosh
