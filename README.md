@@ -413,6 +413,13 @@ Generics in java demo
 6. Final keyword
 7. Static initializers
 
+##### Section 12 - Java Collections
+
+1. Collections overview
+2. Binary Search
+3. Collections List Methods (Collections.swap() , Collections.copy() etc)
+4. Comparable and Comparator
+
 ##### Reactive Java course
 
 1. Stream API examples and exercises
