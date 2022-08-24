@@ -423,6 +423,7 @@ Generics in java demo
 ##### Reactive Java course
 
 1. Stream API examples and exercises
+2. Calling subscribe on reactive sources
 
 ### React
 

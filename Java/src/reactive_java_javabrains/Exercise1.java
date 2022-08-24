@@ -1,6 +1,6 @@
 package reactive_java_javabrains;
 
-public class StreamApiExercises {
+public class Exercise1 {
     public static void main(String[] args) {
         // Use StreamSources.intNumbersStream() and StreamSources.userStream()
 
