@@ -419,6 +419,10 @@ Generics in java demo
 2. Binary Search
 3. Collections List Methods (Collections.swap() , Collections.copy() etc)
 4. Comparable and Comparator
+5. Maps
+6. Sets & HashSet
+7. equals() and hashCode()
+8. Sets - Symmetric & Asymmetric
 
 ##### Reactive Java course
 
