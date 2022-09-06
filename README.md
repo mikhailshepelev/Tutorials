@@ -423,6 +423,8 @@ Generics in java demo
 6. Sets & HashSet
 7. equals() and hashCode()
 8. Sets - Symmetric & Asymmetric
+9. Sorted Collections
+10. TreeMap and Unmodifiable Maps
 
 ##### Reactive Java course
 
