@@ -426,6 +426,21 @@ Generics in java demo
 9. Sorted Collections
 10. TreeMap and Unmodifiable Maps
 
+##### Section 13 - Java FX
+
+Skipped
+
+##### Section 14 - Basic Input & Output including java.util
+
+1. Exceptions
+2. Stack Trace and Call Stack
+3. Catching and throwing Exceptions
+4. Multi Catch Exceptions
+5. Introduction to I/O
+6. Writing content - FileWriter and finally block
+7. Try with resources
+8. FileReader and Closeable
+
 ##### Reactive Java course
 
 1. Stream API examples and exercises
