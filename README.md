@@ -440,6 +440,14 @@ Skipped
 6. Writing content - FileWriter and finally block
 7. Try with resources
 8. FileReader and Closeable
+9. BufferedReader
+10. Load Big Location and Exits Files
+11. BufferedWriter
+12. Byte Streams
+13. Reading Binary Data and End of FIle Exceptions
+14. Object Input Output including Serialization
+15. RandomAccessFile
+16. Create RandomAccessFile
 
 ##### Reactive Java course
 
