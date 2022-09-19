@@ -448,6 +448,10 @@ Skipped
 14. Object Input Output including Serialization
 15. RandomAccessFile
 16. Create RandomAccessFile
+17. Java NIO
+18. Writing objects with Java NIO
+19. Reading and writing with Java NIO
+20. Writing Binary Files with Java NIO
 
 ##### Reactive Java course
 
