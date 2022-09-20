@@ -1,4 +1,4 @@
-package section_14_basic_input_output.nonblocking_input_output.nio;
+package section_14_basic_input_output.nonblocking_input_output.reading_and_writing;
 
 import java.io.IOException;
 import java.nio.file.FileSystems;

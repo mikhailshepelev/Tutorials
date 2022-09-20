@@ -452,6 +452,9 @@ Skipped
 18. Writing objects with Java NIO
 19. Reading and writing with Java NIO
 20. Writing Binary Files with Java NIO
+21. Reading Files with NIO
+22. Absolute and Relative reads
+23. Chained Put Methods
 
 ##### Reactive Java course
 
