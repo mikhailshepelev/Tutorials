@@ -455,6 +455,13 @@ Skipped
 21. Reading Files with NIO
 22. Absolute and Relative reads
 23. Chained Put Methods
+24. Writing Sequentially
+25. FileChannel to Copy Files and Pipes with Threads
+26. Filesystem
+27. Path, Files 
+28. Exists, CopyFile, Move, Rename, Delete files and directories
+29. File Attributes
+30. Read Existing Directory Contents
 
 ##### Reactive Java course
 
