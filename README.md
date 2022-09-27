@@ -462,6 +462,10 @@ Skipped
 28. Exists, CopyFile, Move, Rename, Delete files and directories
 29. File Attributes
 30. Read Existing Directory Contents
+31. Separators Temp Files and File Stores
+32. Walk File Tree
+33. Copy Entire Tree
+34. Mapping IO and NIO Methods
 
 ##### Reactive Java course
 
