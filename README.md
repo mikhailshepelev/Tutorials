@@ -481,6 +481,11 @@ Skipped
 10. Thread Interference
 11. Reentrant Lock and Unlock
 12. Using Try Finally With Threads
+13. Thread Pools and ExecutorService
+14. ArrayBlockingQueue class
+15. Deadlocks
+16. Thread Starvation
+17. Fair Locks and Live Locks
 
 ##### Reactive Java course
 
