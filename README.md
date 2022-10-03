@@ -487,6 +487,13 @@ Skipped
 16. Thread Starvation
 17. Fair Locks and Live Locks
 
+##### Section 16 - Lambda Expressions
+
+1. Lambda Expressions
+2. Lambda Expressions Nested Blocks
+3. Scope and Functional Programming
+4. Functional Interfaces & Predicates
+
 ##### Reactive Java course
 
 1. Stream API examples and exercises
