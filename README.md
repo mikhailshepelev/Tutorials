@@ -493,6 +493,8 @@ Skipped
 2. Lambda Expressions Nested Blocks
 3. Scope and Functional Programming
 4. Functional Interfaces & Predicates
+5. Predicates and Suppliers
+6. Functions
 
 ##### Reactive Java course
 
