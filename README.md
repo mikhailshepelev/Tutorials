@@ -494,7 +494,11 @@ Skipped
 3. Scope and Functional Programming
 4. Functional Interfaces & Predicates
 5. Predicates and Suppliers
-6. Functions
+6. Functions, BiFunctions
+7. Chaining Functions
+8. Streams
+9. Intermediate and Terminal operations
+10. Flatmap, Collect
 
 ##### Reactive Java course
 
