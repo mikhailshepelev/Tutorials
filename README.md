@@ -500,6 +500,14 @@ Skipped
 9. Intermediate and Terminal operations
 10. Flatmap, Collect
 
+##### Section 17 - Regular Expressions
+
+1. Regular Expressions
+2. Character classes and Boundary Matches
+3. Quantifiers and the Pattern and Matcher classes
+4. Matcher find and Group Methods
+5. And, Or & Not
+
 ##### Reactive Java course
 
 1. Stream API examples and exercises
