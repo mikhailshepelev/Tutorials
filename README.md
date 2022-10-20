@@ -508,6 +508,10 @@ Skipped
 4. Matcher find and Group Methods
 5. And, Or & Not
 
+##### Section 20 - Java Networking Programming
+
+1. TCP/IP with Sockets - with multithreading and timeouts
+
 ##### Reactive Java course
 
 1. Stream API examples and exercises
