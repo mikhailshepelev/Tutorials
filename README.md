@@ -511,6 +511,10 @@ Skipped
 ##### Section 20 - Java Networking Programming
 
 1. TCP/IP with Sockets - with multithreading and timeouts
+2. UDP protocol, server and client
+3. High-Level APIs
+4. URL Connections and Input Stream Reader
+5. HttpURLConnection class
 
 ##### Reactive Java course
 
